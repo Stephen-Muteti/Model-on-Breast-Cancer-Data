@@ -17,7 +17,7 @@ The model is implemented in Python using the scikit-learn library. It follows th
 ## Instructions
 1.	Clone the repository.
 2.	Install the required dependencies using pip install -r requirements.txt.
-3.	Run breast_cancer_classification.ipynb in Jupyter Notebook or execute Imanat_Model_v1.ipynb and Imanat_Model_v2.ipynb using a Python interpreter.
+3.	Run or execute Imanat_Model_v1.ipynb and Imanat_Model_v2.ipynb using a Python interpreter.
 4.	Follow the instructions within the notebook or script to load the dataset, preprocess the data, train the model, and evaluate its performance.
 5.	Experiment with different models, hyperparameters, or feature engineering techniques to improve the classification results.
 Feel free to modify and extend the code to fit your specific requirements or explore different aspects of breast cancer classification.
